@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hypercraft a minecraft server owner and created some tools<br>and i am currently learning <br>i love building websites
+About Me:
+I’m the owner of Hypercraft, a Minecraft server, and I’ve created multiple tools for the community.<br>
+Currently learning web development and exploring new technologies.<br>
+I love building clean, modern, and functional websites.
+
 
 
 ## 🌐 Socials:
